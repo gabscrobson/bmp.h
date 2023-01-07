@@ -56,7 +56,7 @@ typedef struct
     BYTE  blue;
     BYTE  green;
     BYTE  red;
-} __attribute__((__packed__))
+}
 RGBTRIPLE;
 
 typedef struct
