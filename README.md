@@ -16,7 +16,7 @@ typedef struct
     BYTE  blue;
     BYTE  green;
     BYTE  red;
-} __attribute__((__packed__))
+}
 RGBTRIPLE;
 ```
 `RGBTRIPLE` structure describes a color consisting of relative intensities of red, green, and blue.
